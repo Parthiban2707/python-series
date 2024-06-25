@@ -1,4 +1,0 @@
-x=5
-y="hello,World!"
-print(x)
-print(y)
