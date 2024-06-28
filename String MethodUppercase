@@ -1,0 +1,3 @@
+Course="Parthiban in the data anaylst"
+print(Course.upper())
+      
