@@ -1,2 +1,3 @@
-Name=input("What is a name:")
-print('Hi'+Name)
+Name=input("Person")
+Colour=input("colour")
+print(Name+" Likes "+Colour)
