@@ -1,5 +1,2 @@
-first='john'
-last='smith'
-message=first+'['+last+']is a code'
-msg=f'{first} {last} is a coder'
-print(msg)
+course='python for beginners'
+print(course.find('f'))
