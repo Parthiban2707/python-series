@@ -1,0 +1,2 @@
+Name=input("What is a name:")
+print('Hi'+Name)

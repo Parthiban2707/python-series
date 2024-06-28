@@ -1,4 +1,0 @@
-x='John'
-y="John"
-print(x)
-print(y)
