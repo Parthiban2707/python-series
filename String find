@@ -1,0 +1,2 @@
+Name="Hello of in check value"
+print(Name.find('c'))
