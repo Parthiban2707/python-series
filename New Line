@@ -1,0 +1,2 @@
+txt="Hello\nworld!"
+print(txt)
