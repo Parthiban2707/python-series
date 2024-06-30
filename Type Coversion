@@ -1,4 +1,0 @@
-Birth_year=input("Birth year:")
-print(type(Birth_year))
-age=2019-int(Birth_year)
-print(age)
