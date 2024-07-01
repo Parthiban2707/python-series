@@ -1,0 +1,6 @@
+List1=["apple","banana","cherry"]
+List2=[1,5,7,9,3]
+List3=[rue,False,False]
+print(List1)
+print(List2)
+print(List3)

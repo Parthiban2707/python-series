@@ -1,0 +1,2 @@
+A=list(("apple","banana","cherry"))
+print(A)
