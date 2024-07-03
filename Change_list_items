@@ -1,0 +1,3 @@
+B=["apple","banana","cherry"]
+B[1]="carrot"
+print(B)
