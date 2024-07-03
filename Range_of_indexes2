@@ -1,0 +1,2 @@
+A=["cricket","football","volleyBall","chess","bastetball"]
+print(A[3:])

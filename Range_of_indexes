@@ -1,0 +1,2 @@
+A=["briyani","Dosa","itlli","Puri","Vada","Curdrice"]
+print(A[:4])
