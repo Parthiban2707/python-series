@@ -1,0 +1,3 @@
+A=["Apple","bannan","cherry"]
+A.insert(1,"blue")
+print(A)

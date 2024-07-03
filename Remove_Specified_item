@@ -1,0 +1,6 @@
+A=["apple","banana","cherry"]
+A.remove("banana")
+print(A)
+B=["appple","banana","Cherry","banana"]
+B.remove("banana")
+print(B)
