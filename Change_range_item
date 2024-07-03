@@ -1,0 +1,3 @@
+A=["Apple","Kiwi","orange","banana","manago"]
+A[1:3]="cherry","ottyApple"
+print(A)
