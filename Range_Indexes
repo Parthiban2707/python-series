@@ -1,0 +1,2 @@
+A=["apple","orange","mango","cherry","fruit","Melon","kiwi"]
+print(A[2:4])
