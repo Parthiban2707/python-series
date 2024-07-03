@@ -1,0 +1,3 @@
+A=["apple","banana","cherry"]
+A.clear()
+print(A)

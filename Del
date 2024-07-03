@@ -1,0 +1,3 @@
+A=["apple","banana","Cherry"]
+del A[0]
+print(A)
