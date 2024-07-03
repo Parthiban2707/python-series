@@ -1,0 +1,3 @@
+A=["apple","bannaa","Cherry"]
+for x in A:
+    print(x)

@@ -1,0 +1,4 @@
+A=["apple","banna","cherry"]
+for i in range(len(A)):
+    print(A[i])
+        
