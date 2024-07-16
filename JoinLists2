@@ -1,0 +1,5 @@
+List1=["a","b","c"]
+List2=[1,2,3]
+for x in List2:
+    List1.append(x)
+    print(List1)
