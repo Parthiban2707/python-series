@@ -1,0 +1,5 @@
+def myfunc(n):
+    return abs(n-65)
+A=[100,50,65,82,23]
+A.sort(key=myfunc)
+print(A)

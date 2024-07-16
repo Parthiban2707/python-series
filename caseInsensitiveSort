@@ -1,0 +1,3 @@
+A=["banana","Orange","kiwi","cherry"]
+A.sort()
+print(A)
