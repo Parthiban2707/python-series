@@ -1,0 +1,4 @@
+fruits=['apple','banana','cherry']
+fruits.append("organge")
+print(fruits)
+#the Append() method appends an element to the end of the list.
