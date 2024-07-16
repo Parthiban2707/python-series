@@ -1,0 +1,2 @@
+A=("apple","banana","Cherry","Apple","cherry")
+print(A)

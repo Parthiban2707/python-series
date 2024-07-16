@@ -1,0 +1,6 @@
+A=("apple",)
+print(type(A))
+
+#Not a tuple
+B=("apple")
+print(type(B))
