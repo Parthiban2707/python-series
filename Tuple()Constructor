@@ -1,0 +1,3 @@
+Thistuple=tuple(("apple","banana","Cherry"))
+print(Thistuple)
+# Note the double round brackets

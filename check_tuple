@@ -1,0 +1,3 @@
+thistuple=("apple","Banana","cherry")
+if "apple" in thistuple:
+    print("yes,'apple' is the fruits tuple")
