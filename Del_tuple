@@ -1,0 +1,4 @@
+A=("apple","banana","cherry")
+del A
+print(A)
+#This will raise an error because the tuple no longer exits
