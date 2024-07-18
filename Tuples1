@@ -1,0 +1,5 @@
+A=("apple","banana","cherry")
+y=list(A)
+y.remove("apple")
+A=tuple(y)
+print(y)
