@@ -1,0 +1,3 @@
+Chain={"apple","banana","cherry"}
+print(Chain)
+
